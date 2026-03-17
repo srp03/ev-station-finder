@@ -74,4 +74,4 @@ src/
 Switching to an EV reduces your carbon footprint significantly. This project aims to support the Indian EV revolution by making charging infrastructure more accessible to everyone.
 
 ---
-**Created by [Antigravity](https://antigravity.google/) for srp03**
+**Created by srp03**
